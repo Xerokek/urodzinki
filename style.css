@@ -1,11 +1,14 @@
 body {
     font-family: 'Arial', sans-serif;
     text-align: center;
+    background-color: antiquewhite;
 }
 
 h1 {
     color: gold; /* Kolor złotego dla nagłówka h1 */
+    font-fam
     text-align: center;
+       font-family: 'Franklin Gothic Medium';
 }
 
 button {
@@ -15,6 +18,7 @@ button {
     border-radius: 5px; /* Zaokrąglenie rogów przycisków */
     margin: 10px;
     cursor: pointer;
+    font-family: Arial;
 }
 
 img {
