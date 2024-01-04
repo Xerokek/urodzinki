@@ -1,4 +1,21 @@
-#h1
-{
-font-color: pink;  
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: gold; /* Kolor złotego dla nagłówka h1 */
+    text-align: center;
+}
+
+button {
+    background-color: pink; /* Kolor różowy dla przycisków */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px; /* Zaokrąglenie rogów przycisków */
+    margin: 10px;
+    cursor: pointer;
+}
+
+img {
+    width: 100px;
 }
