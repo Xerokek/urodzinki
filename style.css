@@ -20,10 +20,7 @@ button {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodanie cienia */
     font-family: 'Caveat", cursive;
     font-weight: 15px
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+    
 }
 
 img {
@@ -49,4 +46,10 @@ p
 
 button {
     width: 60%; /* Ustaw szerokość przycisków */
+}
+.button-image-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
