@@ -35,7 +35,7 @@ p
 }
 #knur {
     border: 5px solid #ffcc00; /* Dodanie ramki - kolor złoty */
-
+width: 200px;
 }
 
 .image-container {
