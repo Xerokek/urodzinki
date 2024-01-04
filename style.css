@@ -32,3 +32,6 @@ p
 {
     text-align: center;
 }
+#knur {
+    border: 5px solid #ffcc00; /* Dodanie ramki - kolor złoty */
+}
