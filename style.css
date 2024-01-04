@@ -27,6 +27,7 @@ img {
 
  margin: 0 auto;
 display: inline-block
+    width: 220px;
     
 }
 p
@@ -54,13 +55,4 @@ button {
     align-items: center;
     justify-content: center;
 }
-#kotek
-{
-width: 220px;
-    height:220px;
-    
-}
-#major {
-width: 800px;
-    height: 336px;
-}
+
