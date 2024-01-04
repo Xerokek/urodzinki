@@ -11,13 +11,14 @@ font-family: 'Caveat', cursive;
 }
 
 button {
-    background-color: pink; /* Kolor różowy dla przycisków */
+   background-color: pink;
     padding: 10px 20px;
     border: none;
-    border-radius: 5px; /* Zaokrąglenie rogów przycisków */
+    border-radius: 5px;
     margin: 10px;
     cursor: pointer;
-    font-family: Arial;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodanie cienia */
+    font-family: 'Caveat", cursive;
 }
 
 img {
